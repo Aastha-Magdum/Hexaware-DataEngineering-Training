@@ -3,16 +3,16 @@ USE retail_capstone_db;
 INSERT INTO customers VALUES
 (1,'Aastha Magdum','Pune','Maharashtra','Female','Gold'),
 (2,'Sneha Kulkarni','Mumbai','Maharashtra','Female','Silver'),
-(3,'Rohan Mehta','Hyderabad','Telangana','Male','Regular'),
-(4,'Priya Nair','Bengaluru','Karnataka','Female','Gold'),
-(5,'Karan Shah','Mumbai','Maharashtra','Male','Regular'),
+(3,'Harleen Mehta','Hyderabad','Telangana','Male','Regular'),
+(4,'Akansha Nair','Bengaluru','Karnataka','Female','Gold'),
+(5,'Preeti Shah','Mumbai','Maharashtra','Male','Regular'),
 (6,'Ananya Rao','Hyderabad','Telangana','Female','Silver'),
 (7,'Vivek Sharma','Delhi','Delhi','Male','Gold'),
-(8,'Neha Joshi','Pune','Maharashtra','Female','Bronze'),
-(9,'Farhan Khan','Lucknow','Uttar Pradesh','Male','Silver'),
-(10,'Meera Iyer','Chennai','Tamil Nadu','Female','Gold'),
+(8,'Neha Patil','Pune','Maharashtra','Female','Bronze'),
+(9,'Farhana Khan','Lucknow','Uttar Pradesh','Male','Silver'),
+(10,'Diya Iyer','Chennai','Tamil Nadu','Female','Gold'),
 (11,'Sahil Deshmukh','Pune','Maharashtra','Male','Silver'),
-(12,'Riya Kapoor','Mumbai','Maharashtra','Female','Regular');
+(12,'Siya Kapoor','Mumbai','Maharashtra','Female','Regular');
 
 INSERT INTO products VALUES
 (101,'Bluetooth Earbuds','Electronics',1500),
